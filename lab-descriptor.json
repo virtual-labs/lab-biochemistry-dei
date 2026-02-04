@@ -1,141 +1,80 @@
 {
   "broadArea": {
-    "name": "Computer Science and Engineering",
-    "link": "http://vlab.co.in/broad-area-computer-science-and-engineering",
-    "code": "CSE"
+    "name": "Biotechnology and Biomedical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+    "code": "BIO"
   },
-  "lab": "Data Structures – 1",
-  "lab_display_name": "Data Structures – 1",
-  "phase": 3,
-  "collegeName": "IIITH",
-  "baseUrl": "ds1-iiith.vlabs.ac.in",
-  "introduction": "Welcome to the Data Structures Lab - I developed at IIIT Hyderabad. Data Structures (also called Data Structures and Algorithms in some places) is a core course in all computer science undergraduate curricula. The course is the basis for understanding several data structures and also algorithms that operate on them. The course forms the foundation for almost all computer science subjects: compilers, operating systems, databases, AI and software engineering. The course comes with a lab in most universities in India. The associated lab in university curricula focuses on implementation of algorithms operating on the data structures, i.e., coding programs on the data structures and algorithms. Students embarking on the task of writing programs, however, often have difficulty visualizing how operations and algorithms modify a data structure. As a result students are often unable to understand or show the execution of an algorithm on a given data structure and write code effectively. Furthermore, students are unable to visually reason about the time and space complexities associated with an algorithm running on a data structure. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using algorithms.",
-  "experiment-sections": [
-    {
-      "sect-name": "Sorting",
-      "experiments": [
-        {
-          "name": "Bubble Sort",
-          "short-name": "bubble-sort",
-          "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Merge Sort",
-          "short-name": "merge-sort",
-          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith.git",
-          "tag": "v1.0.8",
-          "deploy": true
-        },
-        {
-          "name": "Heap Sort",
-          "short-name": "heap-sort",
-          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Quick Sort",
-          "short-name": "quick-sort",
-          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-          "tag": "v1.0.8",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Graphs",
-      "experiments": [
-        {
-          "name": "Depth First Search",
-          "short-name": "depth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Breadth First Search",
-          "short-name": "breadth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-bfs-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Trees",
-      "experiments": [
-        {
-          "name": "Tree Traversal",
-          "short-name": "tree-traversal",
-          "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Binary Search Trees",
-          "short-name": "binary-search-trees",
-          "repo": "https://github.com/virtual-labs/exp-bst-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Searching",
-      "experiments": [
-        {
-          "name": "Unsorted Arrays",
-          "short-name": "unsorted-arrays",
-          "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Hashtables",
-          "short-name": "hash-tables",
-          "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Linked Lists",
-      "experiments": [
-        {
-          "name": "Linked lists",
-          "short-name": "linked-list",
-          "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Polynomial Arithmetic using linked lists",
-          "short-name": "poly-arithmetic",
-          "repo": "https://github.com/virtual-labs/exp-polynomial-arithmetic-iiith",
-          "tag": "v1.0.6",
-          "deploy": true
-        }
-      ]
-    }
+  "lab": "Biochemistry Virtual Lab",
+  "lab_display_name": "Biochemistry Virtual Lab",
+  "phase": "3-ext",
+  "collegeName": "DLBG",
+  "baseUrl": "biochem-dei.vlabs.ac.in",
+  "introduction": "Biochemistry is the study of the chemical processes that occur within and support living organisms. It merges principles from chemistry and biology to explore the structure, function, and interactions of biological molecules such as proteins, nucleic acids, lipids, and carbohydrates. Understanding these molecules and their behavior is essential for interpreting fundamental life processes, diagnosing diseases, and developing therapeutic strategies.<br>This Biochemistry Virtual Lab is designed to provide students with an interactive and experiential learning environment that simulates real laboratory techniques and analyses. Through a suite of virtual experiments, learners will gain practical insights into core biochemical concepts and methods, including the analysis of macromolecules, enzymatic activity, buffer preparation, and physicochemical properties of biomolecules. Each module replicates essential laboratory procedures in a virtual format, allowing users to perform experiments, collect data, and interpret results without the constraints of a physical lab.<br>The experiments included in this virtual lab cover a comprehensive range of topics: from qualitative and quantitative assessment of fats and sugars to molecular estimations of DNA, RNA, and proteins, as well as enzyme kinetics and buffer systems. By completing these modules, students will reinforce theoretical knowledge through simulated practice, enhance analytical thinking, and develop a foundational understanding of experimental biochemistry.",
+  "experiments":[
+  {
+    "name": "Analyze Quality and Quantity of Fats",
+    "short-name": "quantity-of-fats",
+    "repo": "https://github.com/virtual-labs/exp-quantity-of-fats-dei",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Analyze Quality and Quantity of DNA and RNA",
+    "short-name": "dna-rna-analysis",
+    "repo": "https://github.com/virtual-labs/exp-dna-rna-dei",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Quantitative Estimation of Proteins",
+    "short-name": "protein-estimation",
+    "repo": "https://github.com/virtual-labs/exp-estimation-of-proteins-dei",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Estimate Lysozyme Enzymatic Activity and Determination of Km and Vmax",
+    "short-name": "km-vmax",
+    "repo": "https://github.com/virtual-labs/exp-km-vmax-dei",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Quantitative Estimation of Sugar from a Given Sample",
+    "short-name": "sugar-estimation",
+    "repo": "https://github.com/virtual-labs/exp-estimation-of-sugar-dei",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Preparation of Phosphate Buffer and Carbonate-Bicarbonate Buffer",
+    "short-name": "buffer-preparation",
+    "repo": "https://github.com/virtual-labs/exp-phosphate-carbonate-bicarbonate-dei",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Determination of pKa Values",
+    "short-name": "pka-values",
+    "repo": "https://github.com/virtual-labs/exp-pka-values-dei",
+    "tag": "v1.0.0",
+    "deploy": true
+  }
   ],
-  "targetAudience": {
-    "UG": [
-      " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
-    ],
-    "PG": [
-      "Computer Science, Information Technology, Compilers, Operating systems, Databases, AI and Software engineering. <br/> - Ph. D. Beginners"
-    ]
-  },
-  "objective": "The Virtual Lab for Data Structures will focus on creating an environment where the student interactively explores data structures. The role of this Virtual Labs is to complement the lectures and reading material and the programming lab in three ways : 1. Present visual animations of data structures 2. Allow students to interactively execute algorithms in these data structures. 3. Allow students to interactively compute the cost of using these data structures with different algorithms.",
-  "courseAlignment": {
-    "description": "The syllabi of this lab aligns to the following universities in India.",
-    "universities": [
-      "Osmania University Data Structures Lab",
-      "JNTU Data Structures Lab"
-    ]
 
+  "targetAudience": {
+   "UG": [ "The lab is intended for UG and PG engineering students, faculty members, research scholars, and industry trainees."
+                ],
+                "PG": [
+                    "The lab is intended for UG and PG engineering students, faculty members, research scholars, and industry trainees."
+                ]
+            },
+  "objective": "The primary objectives of the Biochemistry Virtual Lab are:<ul><li>To familiarize students with fundamental biochemical laboratory techniques and methodologies in a simulated environment.</li><li>To enable learners to qualitatively and quantitatively analyze biological macromolecules such as fats, proteins, nucleic acids, and sugars.</li><li>To provide practical understanding of enzyme activity measurement and kinetic parameters (Km and Vmax) through virtual experimentation with lysozyme.</li><li>To guide students through the preparation and application of common biochemical buffers, including phosphate and carbonate-bicarbonate buffers.</li><li>To illustrate how physicochemical properties (e.g., pKa values) of biomolecules influence their behavior and function.</li><li>To strengthen data interpretation skills by having students collect virtual experimental data, perform calculations, and draw conclusions.</li><li>To create an accessible, safe, and repeatable learning environment that supports self-paced exploration of core concepts in biochemistry.</li></ul>",
+  "courseAlignment": {
+    "description": "The Virtual Biochemistry Laboratory is designed to cater to a broad, inclusive learner base, in alignment with UGC, NAAC, and NEP-2020 guidelines. The target audience includes:",
+    "universities": [
+      "Undergraduate Level (UG)<br><ul><il>B.Sc. students in Biochemistry, Biotechnology, Zoology, Botany, Microbiology, Life Sciences, Biomedical Sciences, Nutrition, and Allied Disciplines</li><li>Learners in early semesters requiring foundational exposure to biochemical laboratory techniques</li><li>Institutions with limited physical laboratory infrastructure</li></ul><br><b>Purpose at UG Level:</b><ul><li>Develop conceptual understanding of biomolecules</li><li>Introduce basic biochemical techniques</li><li>Develop data interpretation and laboratory readiness</li></ul><br><b>Postgraduate Level (PG)</b><ul><li>M.Sc. students in Biochemistry and Allied Life Sciences</li><li>Learners requiring revision or reinforcement of core biochemical practical skills</li><li>Students preparing for advanced laboratory courses or dissertations</li></ul><b>Purpose at PG Level:</b><ul><li>Strengthen analytical and interpretative skills</li><li>Reinforce experimental design concepts</li><li>Bridge theory with advanced biochemical applications</li><ul>"
+    ]
+  }
  
 }
