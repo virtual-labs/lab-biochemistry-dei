@@ -71,9 +71,20 @@
             },
   "objective": "The primary objectives of the Biochemistry Virtual Lab are:<ul><li>To familiarize students with fundamental biochemical laboratory techniques and methodologies in a simulated environment.</li><li>To enable learners to qualitatively and quantitatively analyze biological macromolecules such as fats, proteins, nucleic acids, and sugars.</li><li>To provide practical understanding of enzyme activity measurement and kinetic parameters (Km and Vmax) through virtual experimentation with lysozyme.</li><li>To guide students through the preparation and application of common biochemical buffers, including phosphate and carbonate-bicarbonate buffers.</li><li>To illustrate how physicochemical properties (e.g., pKa values) of biomolecules influence their behavior and function.</li><li>To strengthen data interpretation skills by having students collect virtual experimental data, perform calculations, and draw conclusions.</li><li>To create an accessible, safe, and repeatable learning environment that supports self-paced exploration of core concepts in biochemistry.</li></ul>",
   "courseAlignment": {
-    "description": "The Virtual Biochemistry Laboratory is designed to cater to a broad, inclusive learner base, in alignment with UGC, NAAC, and NEP-2020 guidelines. The target audience includes:Undergraduate Level (UG)<br><ul><il>B.Sc. students in Biochemistry, Biotechnology, Zoology, Botany, Microbiology, Life Sciences, Biomedical Sciences, Nutrition, and Allied Disciplines</li><li>Learners in early semesters requiring foundational exposure to biochemical laboratory techniques</li><li>Institutions with limited physical laboratory infrastructure</li></ul><br><b>Purpose at UG Level:</b><ul><li>Develop conceptual understanding of biomolecules</li><li>Introduce basic biochemical techniques</li><li>Develop data interpretation and laboratory readiness</li></ul><br><b>Postgraduate Level (PG)</b><ul><li>M.Sc. students in Biochemistry and Allied Life Sciences</li><li>Learners requiring revision or reinforcement of core biochemical practical skills</li><li>Students preparing for advanced laboratory courses or dissertations</li></ul><b>Purpose at PG Level:</b><ul><li>Strengthen analytical and interpretative skills</li><li>Reinforce experimental design concepts</li><li>Bridge theory with advanced biochemical applications</li><ul>",
+    "description": "The Virtual Biochemistry Laboratory is designed to cater to a broad, inclusive learner base, in alignment with UGC, NAAC, and NEP-2020 guidelines. The target audience includes:",
     "universities": [
-      ""
+      "Undergraduate Level(UG) B.Sc. students in Biochemistry, Biotechnology, Zoology, Botany, Microbiology, Life Sciences, Biomedical Sciences, Nutrition, and Allied Disciplines",
+      "Learners in early semesters requiring foundational exposure to biochemical laboratory techniques",
+      "Institutions with limited physical laboratory infrastructure",
+      "Purpose at UG Level:Develop conceptual understanding of biomolecules",
+      "Introduce basic biochemical techniques",
+      "Develop data interpretation and laboratory readiness",
+      "Postgraduate Level (PG) M.Sc. students in Biochemistry and Allied Life Sciences",
+      "Learners requiring revision or reinforcement of core biochemical practical skills",
+      "Students preparing for advanced laboratory courses or dissertations",
+      "Purpose at PG Level:Strengthen analytical and interpretative skills",
+      "Reinforce experimental design concepts",
+      "Bridge theory with advanced biochemical applications"
     ]
   }
  
