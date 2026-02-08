@@ -15,21 +15,21 @@
     "name": "Analyze Quality and Quantity of Fats",
     "short-name": "quantity-of-fats",
     "repo": "https://github.com/virtual-labs/exp-quantity-of-fats-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Analyze Quality and Quantity of DNA and RNA",
     "short-name": "dna-rna-analysis",
     "repo": "https://github.com/virtual-labs/exp-dna-rna-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Quantitative Estimation of Proteins",
     "short-name": "protein-estimation",
     "repo": "https://github.com/virtual-labs/exp-estimation-of-proteins-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
